@@ -6,7 +6,7 @@ built from my own personal theme ive used for a while with new custom tab manage
 <img width="1920" height="1032" alt="Main Player View" src="https://github.com/user-attachments/assets/23e9bc70-a4de-4542-be51-f25cd3c65cf0" />
 
 # Install Instructions
-1) Install foobar2000 (select **portable** during install) from https://www.foobar2000.org/
+1) Install foobar2000 64bit (select **portable** during install) from https://www.foobar2000.org/
 2) Install LT Saeada font from fonts folder
 3) Extract and copy profile and encoders folder into main foobar2000 folder
 4) Enjoy ^_^
