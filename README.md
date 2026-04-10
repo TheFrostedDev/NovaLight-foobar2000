@@ -5,6 +5,11 @@ built from my own personal theme ive used for a while with new custom tab manage
 
 <img width="1920" height="1032" alt="Main Player View" src="https://github.com/user-attachments/assets/23e9bc70-a4de-4542-be51-f25cd3c65cf0" />
 
+# Install Instructions
+1) Install foobar2000 **portable** from https://www.foobar2000.org/
+2) Install LT Saeada font from fonts folder
+3) Extract and copy profile and encoders folder into main foobar2000 folder
+4) Enjoy ^_^
 
 # NovaSplitter
 - Acts as a main container for ColumnsUI panels
@@ -58,12 +63,6 @@ built from my own personal theme ive used for a while with new custom tab manage
 <img width="520" height="217" alt="MiniPlayer" src="https://github.com/user-attachments/assets/c8fcf801-e2ed-4c5b-b163-63ff4b1c890c" />
 
 <img width="520" height="217" alt="MiniPlaylist" src="https://github.com/user-attachments/assets/86360494-61b7-4acc-9afe-9ca9518522d5" />
-
-# Install Instructions
-1) Install foobar2000 portable from https://www.foobar2000.org/
-2) Install LT Saeada font from fonts folder
-3) Copy profile and encoders folder into foobar2000 folder
-4) Enjoy ^_^
 
 # Details
 ## Components List
