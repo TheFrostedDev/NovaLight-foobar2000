@@ -11,6 +11,8 @@ built from my own personal theme ive used for a while with new custom tab manage
 3) Extract and copy profile and encoders folder into main foobar2000 folder
 4) Enjoy ^_^
 
+JSplitter panel files supplied separately for anyone who wishes to use them >w<
+
 # NovaSplitter
 - Acts as a main container for ColumnsUI panels
 - Menu button in top-left corner to access topbar menu actions
