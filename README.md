@@ -9,7 +9,8 @@ built from my own personal theme ive used for a while with new custom tab manage
 1) Install foobar2000 64bit (select **portable** during install) from https://www.foobar2000.org/
 2) Install LT Saeada font from fonts folder
 3) Extract and copy profile and encoders folder into main foobar2000 folder
-4) Enjoy ^_^
+4) Setup your media libraries in preferences
+5) Enjoy ^_^
 
 JSplitter panel files supplied separately for anyone who wishes to use them >w<
 
